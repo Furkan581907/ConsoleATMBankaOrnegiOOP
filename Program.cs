@@ -8,6 +8,7 @@ namespace atm
         {
             public string musteriAdi { get; set; }
         }
+
         class Hesap : Musteri
         {
             public int hesapNo { get; set; }
